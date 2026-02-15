@@ -7,8 +7,8 @@ I bridge the gap between business strategy and technical execution. As a **Busin
 ---
 
 ##  What I Bring to the Table
-* **Business Development**: Expertise in market positioning, strategic planning, and identifying growth opportunities for SaaS projects like **Booky**.
-* **Technical Writing**: Creating comprehensive business requirements, user stories, and system documentation for platforms like **Smaw HR**.
+* **Business Development**: Expertise in market positioning, strategic planning, and identifying growth opportunities for SaaS projects
+* **Technical Writing**: Creating comprehensive business requirements, user stories, and system documentation for platforms 
 * **AI-Powered Engineering**: Implementing robust solutions using **React**, **Tailwind CSS**, and **GraphQL** by maximizing the potential of AI tools with human-level precision.
 * **Infrastructure & Scaling**: Building reliable environments with **Docker** and managing complex database migrations for enterprise applications.
 
