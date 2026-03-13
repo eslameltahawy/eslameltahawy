@@ -1,6 +1,6 @@
 # Hi there, I'm Eslam 
 
-### Business Developer | Technical Writer | AI-Driven coding
+### Business Developer | product manager 
 
 I bridge the gap between business strategy and technical execution. As a **Business Developer**, I specialize in crafting high-impact business plans and scaling digital products. On the technical side, I architect high-quality software by leveraging cutting-edge **AI-assisted development**, ensuring every line of code meets professional standards through rigorous manual review and optimization.
 
